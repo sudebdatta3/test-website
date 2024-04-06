@@ -1,0 +1,21 @@
+p {
+    color: gray;
+}
+
+/* Additional CSS rules */
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+.text {
+  color: blue;
+}
+
+#smiley {
+  width: 300px;
+  height: auto;
+}
