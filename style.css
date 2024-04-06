@@ -1,11 +1,11 @@
 p {
-    color: gray;
+    color: black;
 }
 
 /* Additional CSS rules */
-body {
-  background-color: white;
-}
+/*body {
+  background-color:;
+}*/
 
 h1 {
   font-size: 24px;
